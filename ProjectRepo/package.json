@@ -1,0 +1,22 @@
+{
+  "name": "projectrepo",
+  "version": "1.0.0",
+  "description": "Group10 SEPER Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSen29/SPEED_NBC_Group10.git"
+  },
+  "author": "Noel, Chris and Bailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NSen29/SPEED_NBC_Group10/issues"
+  },
+  "homepage": "https://github.com/NSen29/SPEED_NBC_Group10#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
